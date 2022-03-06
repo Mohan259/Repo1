@@ -1,0 +1,5 @@
+Hello everyone.
+This is a new file.
+With four lines.
+
+The fourth line is a blank line....
