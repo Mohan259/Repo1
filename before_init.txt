@@ -1,0 +1,2 @@
+Added content after the first commit only.
+Trying for restore --stage command

@@ -3,3 +3,5 @@ This is a new file.
 With four lines.
 
 The fourth line is a blank line....
+
+Some more lines added to check git reset.
