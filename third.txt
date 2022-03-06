@@ -1,0 +1,4 @@
+This file I am creating after git stash, which temporarily moved 
+changes made in before_init, newfile files.
+Now, trying to see git stash pop and check, if previous files are coming back correctly
+and also to check, If this file is still present even after git stash pop.
